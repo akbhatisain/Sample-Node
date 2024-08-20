@@ -1,20 +1,12 @@
 {
-  "name": "Sample-node",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node app.js",
-    "build": "echo 'No build step needed'"
-  }
-}
-
-{
     "name": "samplenodejsapp",
     "version": "1.0.0",
     "description": "A Sample Node.js Application",
     "main": "server.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "start": "node app.js",
+    "build": "echo 'No build step needed'"
+  }
     "repository": {
         "type": "git",
         "url": "git+https://github.com/prabod/Sample-Node.js-Application.git"
