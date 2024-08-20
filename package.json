@@ -1,4 +1,13 @@
 {
+  "name": "Sample-node",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'No build step needed'"
+  }
+}
+
+{
     "name": "samplenodejsapp",
     "version": "1.0.0",
     "description": "A Sample Node.js Application",
